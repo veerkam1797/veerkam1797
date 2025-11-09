@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning to use Convex, Clerk & AI integration.
 - 👯 I’m looking to collaborate on React Native based mobile application projects
 - 🤔 I’m looking for help with writing good code
-- 💬 Ask me about F!
+- 💬 Ask me about F1
 - 📫 How to reach me: veer.mobileappdev@gmail.com
 - 😄 Pronouns: he\him...ofc
 - ⚡ Fun fact: Why don't you contact me first to know that?
