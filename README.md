@@ -1,4 +1,4 @@
-<img width="1367" alt="Screen Shot 2023-03-13 at 2 55 41 PM" src="https://www.canva.com/design/DAGLdbCB5Xk/oOwl21Tz8GCPyVgUlPbSEQ/view?utm_content=DAGLdbCB5Xk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9b8b32f3cd">
+<img width="1367" alt="Profile Banner" src="http://url/to/img.png">
 
 ## Hi there 👋
 
