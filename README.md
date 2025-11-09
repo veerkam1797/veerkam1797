@@ -1,4 +1,4 @@
-<img width="1367" alt="Info Banner" src="![alt text](http://url/to/img.png)">
+<img width="1367" alt="ProfileBanner" src="![alt text](http://url/to/ProfileBanner.png)">
 
 ## Hi there 👋
 
